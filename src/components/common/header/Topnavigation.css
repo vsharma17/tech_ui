@@ -1,0 +1,29 @@
+.logo-wrapper{width: 75%;}
+.App-logo {  
+    width:calc(10px + 12vmin);
+   
+    display: inline-block; 
+  
+  }
+  a > span.logo-text{display: inline-block; margin-top: 2px;  vertical-align: top; color: #404040; }
+  .App-header {
+    padding: 15px 0 0 15px;
+    background-color: #fff;
+    min-height: 8vh;
+    display: flex;
+    /* flex-direction: column; */
+    font-size: calc(10px + 2vmin);
+    color: #404040;
+    box-shadow: 0 6px 15px -10px rgba(0,0,0,0.25);
+  }
+  
+  .App-link {
+    color: #09d3ac;
+  }
+
+  *{margin:0; padding:0;}
+.topnav {width: 20%; text-align: right;}
+.topnav ul {display:inline-block; height: 50px; }
+.topnav ul li {list-style-type: none; font-size: calc(5px + 2vmin); }
+.topnav ul li a { color: #404040; }
+

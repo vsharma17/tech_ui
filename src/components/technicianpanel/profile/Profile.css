@@ -1,0 +1,3 @@
+ .rightpanel{margin:0 !important; width:calc(1000px + 12vmin);}
+.MuiStepIcon-root.MuiStepIcon-active {color: #E41932 !important;}
+.MuiStepIcon-root.MuiStepIcon-completed{color: #8BC525 !important;}
